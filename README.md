@@ -3,6 +3,12 @@
 This repository contains files which I have created for learning the basics of NumPy.
 It includes a Jupyter notebook that offers step-by-step guidance, along with a data.txt file, which will be useful for executing certain Python commands.
 
+# TO BE NOTED
+
+Ensure that both the data.txt file and the Jupyter notebook are located in the same directory.
+
+If they are stored in different locations, please update the code to provide the correct path to the data.txt file for proper execution.
+
 ## NUMPY DESCRIPTION
 
 NumPy (Numerical Python) is a powerful library used for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a variety of mathematical functions to operate on these arrays.
@@ -22,3 +28,4 @@ This repository will help you get started with the basics of NumPy, including:
 You can install Jupyter Notebook by following the instructions provided on the official website: https://jupyter.org/install.
 
 Alternatively, you can use Visual Studio Code with the Jupyter extension for running Jupyter notebooks.
+
